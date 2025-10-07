@@ -1,6 +1,6 @@
 package com.tnsif.assignmentone;
 
-public class mainclass {
+public class Main {
 	public static void main(String[] args) {
 		Commission emp = new Commission();
         emp.acceptDetails();
